@@ -9,7 +9,7 @@ export default function TextForm(props) {
         <textarea
           className="form-control"
           id="myBox"
-          rows="5"
+          rows="6"
         ></textarea>
       </div>
       <button className="btn btn-primary">Convert</button>
